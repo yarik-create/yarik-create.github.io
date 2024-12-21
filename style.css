@@ -1,0 +1,43 @@
+header{
+   height: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: stretch  ;
+}
+body{
+background-color:#99FF99;
+}
+.logotip{
+display: flex;
+justify-content: flex-start;
+margin: auto;
+}
+.photo1{
+justify-content: flex-start;
+flex-direction: column;
+}
+.photo2{
+justify-content: space-around;
+}
+.photo3{
+justify-content: space-around;
+}
+.photo4{
+justify-content:flex-end  
+}
+.ssilky{
+display: flex;
+justify-content: space-around;
+color: crimson;
+text-decoration: none;
+margin: 0  10px;
+}
+.photo{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+}
+.photo img{
+   width: 70%;
+}
